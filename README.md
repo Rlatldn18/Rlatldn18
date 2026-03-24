@@ -32,8 +32,6 @@
 <p align="center">
   📌 꾸준히 알고리즘 문제 해결 능력을 향상시키는 중입니다.
 </p>
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=cold)
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
 
 
 ## 🚀 Projects
