@@ -5,9 +5,9 @@
 
 
 ## 🧑‍🚀 About Me
-- 💻 Backend & Problem Solving focused developer  
-- 🚀 꾸준한 알고리즘 학습 (Baekjoon)  
-- 🌱 성장과 기록을 중요하게 생각합니다  
+- 💻 Backend Developer 준비 중  
+- 🧠 Python & Algorithm 집중  
+- 🚀 문제 해결 능력 강화 중  
 
 
 
