@@ -3,11 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Kim%20Si%20Woo%20GitHub&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<!-- 🌠 Shooting Star Effect -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
-</p>
-
 <!-- ✨ Extra Glow Line -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2"/>
