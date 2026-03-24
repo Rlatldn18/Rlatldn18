@@ -2,14 +2,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff9a9e,50:fbc2eb,100:a18cd1&text=Kimsiwoo's%20GitHub&fontSize=45&fontAlign=50&fontAlignY=45" />
 </p>
----
+
 
 ## 🧑‍🚀 About Me
 - 💻 Backend & Problem Solving focused developer  
 - 🚀 꾸준한 알고리즘 학습 (Baekjoon)  
 - 🌱 성장과 기록을 중요하게 생각합니다  
 
----
+
 
 ## 🪐 Tech Stack
 
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Git-1c1c1c?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
 
----
+
 
 ## 🌌 Problem Solving
 
@@ -32,7 +32,7 @@
   📌 꾸준히 알고리즘 문제 해결 능력을 향상시키는 중입니다.
 </p>
 
----
+
 
 ## 🚀 Projects
 
@@ -43,7 +43,6 @@
 
 > 👉 핵심:
 
----
 
 ## 🌌 Galaxy Stats
 
@@ -52,7 +51,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rlatldn18&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
 
----
+
 
 ## 📫 Contact
 
@@ -62,7 +61,7 @@
   </a>
 </p>
 
----
+
 
 <p align="center">
   ✨ Building my universe, one line at a time ✨
