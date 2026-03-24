@@ -1,6 +1,6 @@
 <!-- 🌌 Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Kim%20Si%20Woo%20GitHub&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1446,50:2b2e6e,100:3a3f8f&height=260&section=header&text=Kim%20Si%20Woo%20GitHub&fontSize=45&fontColor=EAEAF6&animation=twinkling"/>
 </p>
 
 ---
