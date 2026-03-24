@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Kim%20Si%20Woo%20GitHub&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
-</p>
-
 <h3 align="center">🌠 동양미래대학교 2학년 재학</h3>
 <p align="center"><i>"One commit lights another star."</i></p>
 
