@@ -1,33 +1,7 @@
 <!-- 🌌 Header -->
 <p align="center">
-  <svg width="100%" height="250" viewBox="0 0 800 250">
-    <defs>
-      <!-- 배경 그라데이션 -->
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#ff9a9e"/>
-        <stop offset="50%" stop-color="#fbc2eb"/>
-        <stop offset="100%" stop-color="#a18cd1"/>
-      </linearGradient>
-
-      <!-- 글씨 그라데이션 -->
-      <linearGradient id="text" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#ffffff"/>
-        <stop offset="50%" stop-color="#ffe0f0"/>
-        <stop offset="100%" stop-color="#ffffff"/>
-      </linearGradient>
-    </defs>
-
-    <!-- 배경 -->
-    <rect width="800" height="250" fill="url(#bg)" rx="20"/>
-
-    <!-- 텍스트 -->
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      font-size="45" font-family="Verdana" fill="url(#text)">
-      Kimsiwoo's GitHub
-    </text>
-  </svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff9a9e,50:fbc2eb,100:a18cd1&text=Kimsiwoo's%20GitHub&fontSize=45&fontAlign=50&fontAlignY=45" />
 </p>
-
 ---
 
 ## 🧑‍🚀 About Me
