@@ -1,6 +1,6 @@
 <!-- 🌌 Galaxy Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Welcome%20to%20My%20Galaxy&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Kim%20si%20woo%20GitHub&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <!-- ✨ Twinkling Star Background -->
