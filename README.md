@@ -29,7 +29,7 @@
 ## 🌌 Problem Solving
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=아이디입력"/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlas"/>
 </p>
 
 <p align="center">
@@ -41,11 +41,11 @@
 ## 🚀 Projects
 
 ### 🌟 주요 프로젝트
-- 🔹 Project 1: (간단 설명)
-- 🔹 Project 2: (간단 설명)
-- 🔹 Project 3: (간단 설명)
+- 🔹 Project 1
+- 🔹 Project 2
+- 🔹 Project 3
 
-> 👉 핵심: "무엇을 만들었는지 + 어떤 기술 썼는지" 짧게
+> 👉 핵심:
 
 ---
 
