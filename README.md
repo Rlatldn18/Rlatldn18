@@ -14,7 +14,7 @@
 ## 🪐 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Html-0f0c29?style=for-the-badge&logo=Html&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jsx-0f0c29?style=for-the-badge&logo=Jsx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python3.0-302b63?style=for-the-badge&logo=Python&logoColor=6DB33F"/>
   <img src="https://img.shields.io/badge/MySQL-24243e?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-1c1c1c?style=for-the-badge&logo=git&logoColor=F05032"/>
