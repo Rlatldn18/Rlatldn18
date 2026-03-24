@@ -44,7 +44,7 @@
 > 👉 핵심:
 
 
-## 🌌 Galaxy Stats
+## 🌌 GitHub & Tect Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rlatldn18&show_icons=true&theme=midnight-purple&hide_border=true"/>
