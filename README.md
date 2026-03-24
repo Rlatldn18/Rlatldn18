@@ -28,7 +28,7 @@
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlas"/>
 </p>
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=rlas&theme=cold)
+
 <img src="http://mazandi.herokuapp.com/api?handle=rlas&theme=cold"/>
 
 <p align="center">
