@@ -1,16 +1,12 @@
-<!-- 🌌 Galaxy Wave Header -->
+<!-- 🌌 Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Kim%20Si%20Woo%20GitHub&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 </p>
 
-<!-- ✨ Extra Glow Line -->
+<!-- 🌠 Shooting Star -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:24243e&height=2"/>
+  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="180"/>
 </p>
-
-<h3 align="center">🌠 Exploring the Universe of Code</h3>
-<p align="center"><i>"One commit lights another star."</i></p>
-
 ---
 
 ## 🧑‍🚀 About Me
