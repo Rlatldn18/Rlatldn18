@@ -4,9 +4,7 @@
 </p>
 
 <!-- ✨ Twinkling Star Background -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%"/>
-</p>
+
 
 <h3 align="center">🌠 Exploring the Universe of Code</h3>
 <p align="center"><i>"One commit lights another star."</i></p>
