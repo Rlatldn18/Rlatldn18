@@ -25,8 +25,8 @@
 ### 🌌 Galaxy Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=midnight-purple&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=midnight-purple&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rlatldn18&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rlatldn18&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
 
 ---
