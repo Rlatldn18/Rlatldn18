@@ -44,7 +44,7 @@
 > 👉 핵심:
 
 
-## 🌌 GitHub & Tect Stats
+## 🌌 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rlatldn18&show_icons=true&theme=midnight-purple&hide_border=true"/>
