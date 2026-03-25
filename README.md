@@ -23,7 +23,7 @@
 
 
 ## 🌌 Problem Solving
-<p>
+<p align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Rlatldn18&theme=dark)](https://git.io/streak-stats)
 </p>
 <p align="center">
