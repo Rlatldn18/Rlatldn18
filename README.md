@@ -24,7 +24,10 @@
 
 ## 🌌 Problem Solving
 <p align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rlatldn18"/></a>
+ <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DenverCoder1&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=Rlatldn18&theme=default" />
+</picture>
 </p>
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlas"/>
