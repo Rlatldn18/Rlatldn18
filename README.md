@@ -31,10 +31,11 @@
 </p>
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlas"/>
-</p>
-<p align="center">
   <img src="http://mazandi.herokuapp.com/api?handle=rlas&theme=cold"/>
 </p>
+
+  
+
 
 
 <p align="center">
