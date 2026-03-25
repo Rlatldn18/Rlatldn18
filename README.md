@@ -23,7 +23,9 @@
 
 
 ## 🌌 Problem Solving
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rlatldn18" align="center" /></a>
+<p align="center">
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Rlatldn18"/></a>
+</p>
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlas"/>
 </p>
