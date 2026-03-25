@@ -23,9 +23,9 @@
 
 
 ## 🌌 Problem Solving
-
-<p align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Rlatldn18&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+
 
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlas"/>
   <img src="http://mazandi.herokuapp.com/api?handle=rlas&theme=cold"/>
